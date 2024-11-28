@@ -48,7 +48,7 @@ if (file_exists($flowersFile)) {
 </head>
 
 <body>
-    <h1>Danh Sách Các Loài Hoa</h1>
+    <h1>14 loại hoa tuyệt đẹp thích hợp trồng để khoe hương sắc dịp xuân hè</h1>
 
     <!-- Hiển thị danh sách hoa -->
     <?php if (!empty($flowers)): ?>
